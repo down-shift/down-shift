@@ -1,4 +1,4 @@
-# Hey there, I’m down-shift!
+# Hey there, I’m Daniel Fedorov!
 - 👀 I’m interested in machine learning, competitive programming and design.
 - 🌱 I’m currently learning neural networks, library design and image recognition.
 - 💞️ I’m looking to collaborate on NLP.
