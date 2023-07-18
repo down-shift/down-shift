@@ -1,8 +1,7 @@
 ## 💫 Hey there, I'm Daniel!
 
 <!-- ![Download CV](https://img.shields.io/badge/Download%20CV-%2523000011.svg?style=for-the-badge&color=%233260a8&link=https%3A%2F%2Fgithub.com%2Fdown-shift%2Fdown-shift%2Fblob%2Fmain%2FDaniel_Fedorov_DS.pdf) -->
-<!-- <a href="https://github.com/down-shift/down-shift/blob/main/Daniel_Fedorov_DS.pdf"><img src="https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg"/></a> -->
-https://img.shields.io/badge/Download%20CV-%2523000011.svg?style=for-the-badge&color=%233260a8&link=https%3A%2F%2Fgithub.com%2Fdown-shift%2Fdown-shift%2Fblob%2Fmain%2FDaniel_Fedorov_DS.pdf
+<a href="https://github.com/down-shift/down-shift/blob/main/Daniel_Fedorov_DS.pdf"><img src="https://img.shields.io/badge/Download%20CV-%2523000011.svg?style=for-the-badge&color=%233260a8&link=https%3A%2F%2Fgithub.com%2Fdown-shift%2Fdown-shift%2Fblob%2Fmain%2FDaniel_Fedorov_DS.pdf"/></a>
 
 
 ## 💻 Tech Stack
